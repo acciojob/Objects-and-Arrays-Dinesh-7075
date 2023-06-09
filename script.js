@@ -8,7 +8,7 @@ const person = {
 let team = players;
 let team1 = ["John", "Bob", "Alice", "Poppy"];
 let cap1 = {
-	name: "Accio Job",
+	name: "John Doe",
 	age: 25,
 };
 
